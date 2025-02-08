@@ -1,3 +1,22 @@
+## [1.32.0](https://github.com/chemchetchagio/piko/compare/v1.31.0...v1.32.0) (2025-02-08)
+
+### Bug Fixes
+
+* **Twitter:** fix `Custom downloader` patch ([f4d953a](https://github.com/chemchetchagio/piko/commit/f4d953a3dc7cb8325e56e515cd38a8ab707d2162))
+* **Twitter:** fix `Custom translator` patch ([8065fa3](https://github.com/chemchetchagio/piko/commit/8065fa32019d1d1bd4c9bd116f1774e345203356))
+* **Twitter:** fix `Enable debug menu for posts` patch ([72a72f2](https://github.com/chemchetchagio/piko/commit/72a72f2114d0ee9fe2cac0e5eae5b03e196dd6e2))
+
+### Features
+
+* **Translations:** Update `Japanese` ([039aac3](https://github.com/chemchetchagio/piko/commit/039aac304215858769c794684f837719edad9790))
+* **Twitter:** Added `Remove Todays news` patch ([8324633](https://github.com/chemchetchagio/piko/commit/8324633509fdf61756751fdde67e5752ff3dee5c))
+
+### Refactors
+
+* **Twitter:** refactor button class Hook ([2bf411a](https://github.com/chemchetchagio/piko/commit/2bf411a61fd5181d5266d1496becf7b93f4d0d08))
+* **Twitter:** refactor strings-pl ([9aacfa1](https://github.com/chemchetchagio/piko/commit/9aacfa1baf7ed0301850f30ae8053c101ef8b27b))
+* **Twitter:** Removed unused string from pt-BR ([cdb2067](https://github.com/chemchetchagio/piko/commit/cdb2067360944309a9156b71bf9776457c44c49a))
+
 ## [1.50.0-dev.1](https://github.com/crimera/piko/compare/v1.49.1...v1.50.0-dev.1) (2025-01-31)
 
 ### Features
